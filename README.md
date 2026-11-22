@@ -7,7 +7,7 @@ This repository provides a ready-to-use Google Colab notebook for running **Qwen
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1gAfG7L7XHl_1pxSu5BZVppIuiInrAlSQ?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Qwen-Image-2.1-in-Google-Colab/blob/main/Qwen_Image_2_1_CoinNoin.ipynb)
-[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/soon)
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/LKHUDLL9U3N6J)
 
 ---
 <img src="./thumbnail.png" width="100%" />
